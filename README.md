@@ -13,6 +13,6 @@ On this website there are six small background images in the bottom center that 
 
 ## Lessons Learned:
 
-DOM
+DOM manipulation
 
 
