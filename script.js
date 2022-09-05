@@ -11,3 +11,4 @@ let background1 = () => {
     document.querySelector('body').style.background = "url('image/autumn-forest.jpg') center center / cover"; 
   }
   
+  

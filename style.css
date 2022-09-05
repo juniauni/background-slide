@@ -17,7 +17,7 @@
   .back-frem {
     width: 24.5rem;
     height: 6rem;
-    background: rgb(239, 239, 239);
+    background: lightgoldenrodyellow;
     position: fixed;
     bottom: 10px;
     display: flex;
@@ -28,7 +28,6 @@
   .back-frem .back-chang {
     width: 91px;
     height: 91px;
-    background: rgb(239, 239, 239);
     overflow: hidden;
     cursor: pointer;
   }
