@@ -10,5 +10,10 @@ let background1 = () => {
   let background4 = () => {
     document.querySelector('body').style.background = "url('image/autumn-forest.jpg') center center / cover"; 
   }
-  
+  let background5 = () => {
+    document.querySelector('body').style.background = "url('https://placekitten.com/1000/1000') center center / cover"; 
+  }
+  let background6 = () => {
+    document.querySelector('body').style.background = "url('https://placedog.net/1000/1000') center center / cover"; 
+  }
   
