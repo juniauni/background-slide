@@ -1,6 +1,8 @@
 # background-slide
 <h1>Title</h1>
 <p>Background Slide</p>
+<p>Preview</p>
+<img src="image/preview">
 <br>
 <h1>Overview</h1>
 <p>This is a simple web background slide, which me and my friend Jinda(jindacz) made to complete the Pair Programming challenge from Chingu which is a global collaboration platform. This website is built with HTML, CSS and Javascript.</p>
